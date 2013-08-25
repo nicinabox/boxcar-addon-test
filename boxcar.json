@@ -2,7 +2,7 @@
   "name": "Addon Test",
   "version": "0.1.0",
   "description": "For testing purposes only",
-  "author": "aitch",
+  "author": "nicinabox",
   "homepage": "https://github.com/nicinabox/boxcar-addon-test",
   "dependencies": []
 }
