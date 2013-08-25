@@ -3,5 +3,6 @@
   "version": "0.1.0",
   "description": "For testing purposes only",
   "author": "aitch",
-  "homepage": "https://github.com/nicinabox/boxcar-addon-test"
+  "homepage": "https://github.com/nicinabox/boxcar-addon-test",
+  "dependencies": []
 }
