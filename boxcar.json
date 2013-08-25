@@ -4,5 +4,7 @@
   "description": "For testing purposes only",
   "author": "nicinabox",
   "homepage": "https://github.com/nicinabox/boxcar-addon-test",
-  "dependencies": []
+  "dependencies": {
+    "openssl": "~1.0.0"
+  }
 }
